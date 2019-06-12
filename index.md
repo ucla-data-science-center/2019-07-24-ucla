@@ -63,6 +63,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h2 id="register"> <a href="https://calendar.library.ucla.edu/event/5501507"> Register </a> </h2>
 
 <h2 id="general">General Information</h2>
 

@@ -112,6 +112,9 @@ address.
   or
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
 </p>
+<p>
+  <strong>Parking Information</strong>
+  <p>Nearest automobile parking to the workshop location is Parking Structure 2. <a href="https://map.ucla.edu/?k=true&id=194">View Parking Structure 2 and get directions through our campus map</a>.
 {% endif %}
 
 {% comment %}
